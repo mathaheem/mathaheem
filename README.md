@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Arshad Thaheem 👋
 
-<!--
-**mathaheem/mathaheem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a professional Web Developer and System Automation Engineer with over 5 years of experience building high-performance digital solutions. I specialize in custom platform architectures, deep ecommerce engineering, and next-generation AI integrations.
 
-Here are some ideas to get you started:
+## 🛠️ Core Expertise
+* **Ecommerce & CMS:** Custom Shopify Liquid Programming, WooCommerce Optimization, WordPress Plugin Customization.
+* **AI & Workflow Automation:** Advanced n8n workflow deployment, custom Webhook integrations, OpenRouter & LLM configurations for scalable lead management.
+* **Performance Engineering:** Core Web Vitals optimization, reducing code bloat, and sub-2-second target load times.
+* **Systems & Security:** Windows Server administration, Hyper-V virtualization, and Cloudflare WAF custom rule configurations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect With Me
+* **Portfolio:** [arshadthaheem.com](https://arshadthaheem.com)
+* **LinkedIn:** [Muhammad Arshad](https://www.linkedin.com/in/m-arshad-thaheem/)
